@@ -1,0 +1,63 @@
+body{
+  font-family: Bradley Hand, cursive
+}
+
+
+#name{
+  color: pink;
+  font-size:60px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+
+p {
+color:teal;
+font-size: 1em;
+
+}
+
+h1{
+  color:purple;
+  font-size: 2em;
+  font-family: Fantasy;
+  font-weight: bold;
+  margin-bottom: 15px;
+  margin-right: 50px;
+  margin-left: 20px;
+}
+
+#firstPar{
+  color: black;
+  font-size: 20px;
+  font-family: Fantasy;
+  margin-bottom: 15px;
+  margin-right: 50px;
+  margin-left: 20px;
+  }
+
+#secondPar{
+  color: purple;
+  font-size: 20px;
+  font-family: Fantasy;
+  margin-bottom: 15px;
+  margin-right: 50px;
+  margin-left: 20px;
+}
+
+#thirdPar{
+  color: purple;
+  font-size: 20px;
+  font-family: Fantasy;
+  margin-bottom: 15px;
+  margin-right: 50px;
+  margin-left: 20px;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
